@@ -22,4 +22,5 @@ If WScript.ScriptName = "main_template.vbs" Then
 	Include "v_HTML"
 	Include "v_JSON"
 	Include "v_Script"
+	Include "v_URI"
 End If
